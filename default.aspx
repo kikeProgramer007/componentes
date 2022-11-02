@@ -34,8 +34,8 @@
                 <asp:ListItem Value="~/WebForm19.aspx">FileUpload</asp:ListItem>
                 <asp:ListItem Value="~/WebForm20.aspx">Calendar</asp:ListItem>
                 <asp:ListItem Value="~/WebForm21.aspx">AdRotator</asp:ListItem>
-                <asp:ListItem Value="~/WebForm1.aspx">HiddenField</asp:ListItem>
-                <asp:ListItem Value="~/WebForm1.aspx">MultiView y View</asp:ListItem>
+                <asp:ListItem Value="~/WebForm22.aspx">HiddenField</asp:ListItem>
+                <asp:ListItem Value="~/WebForm23.aspx">MultiView y View</asp:ListItem>
             </asp:BulletedList>
 
         </div>
