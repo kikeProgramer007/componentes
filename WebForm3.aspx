@@ -8,10 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h3>Comparar con webForm4 en leccion de variables de sesion</h3>
     <form id="form1" runat="server">
         <div>
-            <h3>Comparar con webForm4 en leccion de variables de sesion</h3>
-
             <p>Metodo 1 : ViewState</p>
              <asp:Button ID="btnIncremental" runat="server" OnClick="Button1_Click" Text="Incrementar" />
              <asp:TextBox ID="textIncremental" runat="server"></asp:TextBox>

@@ -8,9 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h2>Eventos de controles</h2>
     <form id="form1" runat="server">
         <div>
-   
             Evento postback<br />
             <asp:Button ID="btnPostBack" runat="server" OnClick="btnPostBack_Click" Text="PostBack" />
             <asp:Label ID="lblMensajePB" runat="server" Text="Antes del PostBack"></asp:Label>

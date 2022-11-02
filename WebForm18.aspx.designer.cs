@@ -11,7 +11,7 @@ namespace componentes
 {
 
 
-    public partial class _default
+    public partial class WebForm18
     {
 
         /// <summary>
@@ -31,5 +31,23 @@ namespace componentes
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.BulletedList BulletedList1;
+
+        /// <summary>
+        /// Control BulletedList2.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.BulletedList BulletedList2;
+
+        /// <summary>
+        /// Control BulletedList3.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.BulletedList BulletedList3;
     }
 }

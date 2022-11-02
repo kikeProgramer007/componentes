@@ -8,8 +8,8 @@
     <title></title>
 </head>
 <body>
+    <h2>DropDownList I</h2>
     <form id="form1" runat="server">
-        <h2>DropDownList I</h2>
         <p>Frutas</p>
         <div>
             <asp:DropDownList ID="ddlFrutas" runat="server">

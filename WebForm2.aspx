@@ -8,9 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h2>Primer ejemplo</h2>
     <form id="form1" runat="server">
       <div>
-         <h2>Primer ejemplo</h2>
          <asp:TextBox ID="textConteo" runat="server"></asp:TextBox>
          <asp:Button ID="btnIncrementa" runat="server" Text="Ingrementa" OnClick="btnIncrementa_Click" />
       </div>

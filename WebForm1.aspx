@@ -8,9 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h1>Hola mundo</h1>
     <form id="form1" runat="server">
         <div>
-            <h1>Hola mundo</h1>
             <asp:Button ID="Button1" runat="server" Text="Submit" />
         </div>
     </form>

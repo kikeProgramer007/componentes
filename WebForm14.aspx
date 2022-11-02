@@ -8,10 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h2>DropDownList II XML MapPath</h2>
     <form id="form1" runat="server">
         <div>
-            <h2>DropDownList II XML MapPath</h2>
-            
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/CarpetaA/CarpetaB/EnCarpetaB.aspx">Ir a WebForm de Carpeta B </asp:HyperLink><br /><br />
             <asp:DropDownList ID="ddlFrutas" runat="server">
             </asp:DropDownList>

@@ -8,6 +8,7 @@
     <title></title>
 </head>
 <body>
+    <h2>CheckBox</h2>
     <form id="form1" runat="server">
         <div>
             Cantidad a pagar<asp:TextBox ID="txtPago" runat="server">0</asp:TextBox>

@@ -8,10 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h2>ImageButton y Event Command</h2>
     <form id="form1" runat="server">
         <div>
-            <h2>ImageButton y Event Command</h2>
-            <br />
             ImagenButton<br />
             <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/logotipo.png" OnClick="ImageButton1_Click" />
             <br />

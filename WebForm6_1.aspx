@@ -8,9 +8,9 @@
     <title></title>
 </head>
 <body>
+    <h3>Variables de sesion</h3>
     <form id="form1" runat="server">
         <div>
-            <h3>Variables de sesion</h3>
             <p>
                 Prueba desde otra pestaña que la variable session se almacene
                 <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm6.aspx" style="text-decoration: none" Target="_blank">Ir a WebForm6</asp:HyperLink>

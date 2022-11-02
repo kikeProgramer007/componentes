@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div style="height: 440px">
-            <h2>TextBox</h2>
+            <h2>TextBox I y II</h2>
             SingleLine<br />
             <asp:TextBox ID="txtSingleLine" runat="server" ToolTip="TextBox de una linea"></asp:TextBox>
             <asp:Label ID="lblSingleLine" runat="server" Text="Label"></asp:Label>

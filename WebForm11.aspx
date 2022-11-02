@@ -8,6 +8,7 @@
     <title></title>
 </head>
 <body>
+    <h1>HiperLink y LinkButton</h1>
     <form id="form1" runat="server">
         <div>
              Link<br />
